@@ -1,0 +1,20 @@
+﻿  Application.cpp
+D:\dev\c++\OpenGLProject\src\Objects\Vector.cpp(33,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Tools\Drawing_Tools.cpp(34,89): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\dev\c++\OpenGLProject\src\Tools\Drawing_Tools.cpp(34,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\dev\c++\OpenGLProject\src\Tools\Frame_Counter.cpp(42,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\dev\c++\OpenGLProject\src\Objects\Planet.cpp(32,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Objects\Planet.cpp(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Application.cpp(73,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Application.cpp(73,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Application.cpp(73,267): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Application.cpp(73,214): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Application.cpp(93,27): warning C4018: '<': signed/unsigned mismatch
+D:\dev\c++\OpenGLProject\src\Application.cpp(95,31): warning C4018: '<': signed/unsigned mismatch
+D:\dev\c++\OpenGLProject\src\Application.cpp(103,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Application.cpp(118,105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Application.cpp(132,105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Application.cpp(143,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\dev\c++\OpenGLProject\src\Application.cpp(178,27): warning C4018: '<': signed/unsigned mismatch
+D:\dev\c++\OpenGLProject\src\Application.cpp(187,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLProject.vcxproj -> D:\dev\c++\OpenGLProject\Debug\OpenGLProject.exe

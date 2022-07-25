@@ -1,0 +1,9 @@
+#pragma once
+
+#include <cmath>
+
+#define PI 3.14159265358979323846
+#define DISTANCE_CONSTANT (150 * pow(10, 9) / 20)
+#define GRAVITY_CONSTANT (6.67 * pow(10, -11))
+#define FOUR_OVER_THREE 1.33333333333333333333
+#define ONE_OVER_THREE = 0.33333333333333333333
